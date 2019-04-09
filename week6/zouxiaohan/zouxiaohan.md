@@ -13,7 +13,7 @@
 - 置信概率和雷达图
 - 尽可能实现了高内聚低耦合
 
-MLP模型的保存和加载了[苏昭帆和郭辉的工作](https://github.com/Zhaofan-Su/SpeechEmotionRecognition)。
+MLP模型的保存和加载、雷达图使用了[苏昭帆和郭辉的工作](https://github.com/Zhaofan-Su/SpeechEmotionRecognition)。
 
 
 
