@@ -1,0 +1,19 @@
+#刘雨
+1.代码：（进度未完成）原任务纵向比较embedding，完成现状：已安装pytorch包和torchtext包，但是在pycharm上显示无这两个包，无法运行，待解决。
+2.调研：根据论文的一些信息提示调研到一些，但调研过程有点没有章法，只通过readme的信息来推测是否有用，没有找到明确符合要求的demo，查到的这些不确定是否符合要求。调研的内容如下：
+1）Chatterbot: https://github.com/gunthercox/ChatterBot
+//ChatterBot是一个基于机器学习的对话引擎，它内置在python中，可以根据已知对话的集合生成响应。
+//非基于检索
+2）人人网小黄鸡：https://github.com/wong2/xiaohuangji
+//作者不再维护该代码
+//readme中没有显示其运行方法，但是在csdn的一篇文章中说它是基于检索
+3）Chitchatbot: https://github.com/singhsanket143/ChitCHatBot
+//readme中没有写清楚这是干什么的，因为名字入选，好像是与facebook有关
+4）ChineseChatBot:https:github.com/codemayq/chinese_chatbot_corpus
+//这个是一个中文的语料库汇总，有几个标明了语料库来源，有可能是可用项目
+5）小姜:https://github.com/yongzhuo/nlp_xiaojiang
+//基于检索的chatbot
+6）需要自己训练的chatbot：https://github.com/zhaoyingjun/chatbot
+//这个有提供一个演示代码，但是语聊质量不好
+7）中文检索式机器人QA模型：https://github.com/WenRichard/QAmodel-for-Retrievalchatbot
+//问答机器人，readme没有太多信息
